@@ -1,2 +1,2 @@
 # Spring-Security
-how to use Spring Security in a Spring Boot application
+- This repository contains projects created using Spring Security for authentication and authorization purposes. The projects include custom authentication providers, as well as implementations using JSON Web Tokens (JWT) and without JWT. These projects demonstrate how to secure web applications using Spring Security and can serve as a reference for developers implementing security features in their own applications.
